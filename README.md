@@ -13,6 +13,8 @@ a replication of OpenAI's Dall-E model, that became more and more popular as we 
 
 We are very thankful for the great work of lucidrains!
 
+:warning: If you are currently working on **any project or training a model with lucidrains' code or a fork**, please let us know by opening an issue or a pull request including a URL. We would love to add your project to this list! 
+
 ## Projects
 
 | Repository Name | Date | Description | Projects |
