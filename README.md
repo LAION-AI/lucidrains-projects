@@ -1,13 +1,15 @@
 
 # lucidrains-sumary
 
-## Introduction
+<p align='center'>
+  <a href="https://discord.gg/xBPBXfcFHd"><img alt="Join us on Discord" src="https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white"></a>
+<p>
 
 This repository gives an overview of the awesome projects created by [lucidrains](https://github.com/lucidrains) that we as LAION want to share with the community
 in order to help people train new exciting models and do research with SOTA ML code. 
 
-The whole LAION community started with crawling@home that became LAION-400M and later evolved into LAION-5B and at the same time lucidrains' awesome repository DALLE-pytorch,
-a replication of OpenAI's Dall-E mode, that became more and more popular as we trained on CC-3m and CC-12m datasets and later on LAION-400M.
+The whole LAION community started with crawling@home that became LAION-400M and later evolved into LAION-5B and at the same time lucidrains' awesome repository [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch),
+a replication of OpenAI's Dall-E model, that became more and more popular as we trained on CC-3m and CC-12m datasets and later on LAION-400M.
 
 We are very thankful for the great work of lucidrains!
 
